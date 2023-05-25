@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\AppVeterinaria\bin\Debug\AppVeterinaria.exe.config
+C:\Users\Usuario\source\repos\AppVeterinaria\bin\Debug\AppVeterinaria.exe
+C:\Users\Usuario\source\repos\AppVeterinaria\bin\Debug\AppVeterinaria.pdb
+C:\Users\Usuario\source\repos\AppVeterinaria\obj\Debug\AppVeterinaria.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\AppVeterinaria\obj\Debug\AppVeterinaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\AppVeterinaria\obj\Debug\AppVeterinaria.Principal.resources
+C:\Users\Usuario\source\repos\AppVeterinaria\obj\Debug\AppVeterinaria.Properties.Resources.resources
+C:\Users\Usuario\source\repos\AppVeterinaria\obj\Debug\AppVeterinaria.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\AppVeterinaria\obj\Debug\AppVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AppVeterinaria\obj\Debug\AppVeterinaria.exe
+C:\Users\Usuario\source\repos\AppVeterinaria\obj\Debug\AppVeterinaria.pdb
